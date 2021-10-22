@@ -1,0 +1,8 @@
+# editor stuff
+*.swo
+*.swp
+
+# installation artifacts
+__pychache__/
+*.egg-info
+*.pyc
